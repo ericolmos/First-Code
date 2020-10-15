@@ -113,4 +113,7 @@ body {
     .four-column {
         width: 100%;
     }
+    .header {
+        background-image: url('../img/pexels-pixabay-164745.jpg');
+    }
 }
